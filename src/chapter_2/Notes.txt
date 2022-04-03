@@ -7,5 +7,7 @@ chapter 1 is good
 author of the book:
 Bekzod Barakaev
 
+add these things:
+
 more fun
 more java
